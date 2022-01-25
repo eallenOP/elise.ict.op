@@ -1,0 +1,18 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Nav from '../components/Nav.astro';
+
+const { title = 'Astro Base' } = Astro.props;
+---
+
+<html>
+  <head>
+    <BaseHead title={title} />
+  </head>
+  <body>
+    <!-- Adds a navigation bar to every page. -->
+    <Nav />
+    <!-- slot: your page content will be injected here. -->
+    <slot />
+  </body>
+</html>

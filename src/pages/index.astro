@@ -1,0 +1,48 @@
+---
+// Component Imports
+import Tour from '../components/Tour.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+// You can import components from any supported Framework here!
+
+
+// Component Script:
+// You can write any JavaScript/TypeScript that you'd like here.
+// It will run during the build, but never in the browser.
+// All variables are available to use in the HTML template below.
+let title = 'Eliseʻs Astro Site';
+
+// Full Astro Component Syntax:
+// https://docs.astro.build/core-concepts/astro-components/
+---
+
+<style>
+    header {
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+        max-width: min(100%, 68ch);
+    }
+    main > * {
+        margin-top: 2em;;
+    }
+</style>
+
+<BaseLayout title={title}>
+    <header>
+        <div>
+            <img width="60" height="80" src="/assets/logo.svg" alt="Astro logo">
+            <h1>Welcome to <a href="https://astro.build/">Astro</a></h1>
+        </div>
+    </header>
+    <main>
+        <h2>Elise has made a custom starter!</h2>
+
+        <p>This builds upon the starter (generic) that comes with <code>astro init</code> and adds:</p>
+        <ul>
+            <li>A base layout with the basic page structure</li>
+            <li>A base head with all the minimal required head elements</li>
+            <li>A title prop that can be set on any page and has a default that can be set in the base layout</li>
+        </ul>
+    </main>
+       
+</BaseLayout>
