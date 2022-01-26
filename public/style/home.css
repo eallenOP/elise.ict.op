@@ -4,6 +4,10 @@
   --color-light: #f3f4f6;
 }
 
+* {
+  margin: 0;
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --color-light: #1f2937;
@@ -29,8 +33,9 @@ header h1 {
   font-weight: 500;
 }
 header img {
-  width: 2em;
+  width: auto;
   height: 2.667em;
+  margin-bottom: 2em;
 }
 
 h2 {
