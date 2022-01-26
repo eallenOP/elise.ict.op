@@ -19,6 +19,14 @@ title: Ako Prototype
 
 This is an Ako prototype for Te Pūkenga. The aim is to represent the core concepts of the Studio system as originally devised for the BIT at Otago Polytechnic.
 
+### Background
+
+To cut a long story short: the Bachelor of IT at Otago Polytechnic needed to be reviewed, so we had the opportunity to address many of the challenges we'd identified over the past several years of reflective teaching practice. The result was to add a compulsory Studio course, worth 15 credits, in each semester of the programme alongside existing (and new) electives and core courses.
+
+### Purpose
+
+The purpose of this document/prototype is to describe some of the challenges we in the BIT team wanted to address with Studio, and to present our approach in such a way as it might be useful in other disciplines and contexts.
+
 ## Questions:
 - [How might we increase buy-in for learning soft skills, e.g. teamwork and communication?](#how-might-we-increase-buy-in-for-learning-soft-skills-eg-teamwork-and-communication)
 - [How might we encourage learners to stop dreading or hating group work?](#how-might-we-encourage-learners-to-stop-dreading-or-hating-group-work)
@@ -112,5 +120,10 @@ We will need to let go of some of the values of our English education traditions
 We should strive to increase buy-in for soft skills and communication. We should encourage learners to embrace and enjoy group work. We should stop agonising over percentage points and spend time coaching and guiding instead. We should scaffold learning carefully and identify and reduce frustration. We should focus on work-ready habits rather than specific technical skills. We should encourage learners to work hard for the sake of learning and not just to achieve a mark. We should encourage learners to make mistakes and help them learn from those experiences, and we should promote process-focussed learning over ticking goal-focussed boxes. 
 
 In this way, the Kareao is rewarded for its thoughtful pathway towards the canopy and for its depth and breadth of strength gained by working as a whānau in the forest. It also helps support the tall Kanuka to withstand stormy weather and develop not only a high canopy but a strong root system.
+
+## Other nice aspects of the Studio approach
+
+- Skills gained at any given level are layered on top of skills gained previously, meaning everything learnt so far is constantly revisited and remixed with new and more advanced ways of operating. This prevents the mindset of learning something in a stand-alone course and never applying that knowledge in a broader context (e.g. in other courses).
+- Learners experience diverse teams as we remix the teams each semester. This exposes every learner to a wide range of personalities, beliefs, cultural preferences, backgrounds and approaches and gives each learner the opportunity to work in both "easy" and "difficult" teams.
 
 ## Challenges
