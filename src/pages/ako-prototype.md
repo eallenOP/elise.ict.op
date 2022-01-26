@@ -123,7 +123,17 @@ In this way, the Kareao is rewarded for its thoughtful pathway towards the canop
 
 ## Other nice aspects of the Studio approach
 
+- Although this document doesn't cover the BIT-specific learning outcomes at each level, it might be useful to describe the general theme of each as an example of the progression of broad skillsets:
+    - Studio 1: Teamwork tools and processes
+    - Studio 2: Design Thinking (user-centric)
+    - Studio 3: Agile (with Scrum)
+    - Studio 4: Cross-functional teamwork (individual set roles)
+    - Studio 5 and 6: Capstone Project
 - Skills gained at any given level are layered on top of skills gained previously, meaning everything learnt so far is constantly revisited and remixed with new and more advanced ways of operating. This prevents the mindset of learning something in a stand-alone course and never applying that knowledge in a broader context (e.g. in other courses).
 - Learners experience diverse teams as we remix the teams each semester. This exposes every learner to a wide range of personalities, beliefs, cultural preferences, backgrounds and approaches and gives each learner the opportunity to work in both "easy" and "difficult" teams.
+- Because Studio courses don't have strictly scheduled timetables of content to get through in the available time, it's possible to make the most of opportunities such as slotting in a guest speaker who happens to be in town or making the most of a chance to invite learners from another discipline to collaborate.
+- Each Studio semester is a 16-week, 15 credit course with two sessions per week of two hours each in the classroom. For most full time learners this leaves around five hours a week to practice their remote working skills by contributing to the project and communicating with the team for homework.
+- Projects are open-ended and can span semesters/Studio levels. This means that when the teams get remixed, people will learn how to be onboarded into an existing project or how to welcome new team members and share their knowledge. It also builds the habit of seeing every day as an opportunity to add something new, since there's no such thing as finished. Everything can always be improved somehow, so no matter how fast or slowly a team works they never run out of things to do.
 
 ## Challenges
+
