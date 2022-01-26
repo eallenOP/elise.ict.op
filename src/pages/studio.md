@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/BaseLayout.astro
-title: Ako Prototype
+title: Studio approach
 ---
 
 <style>
@@ -137,3 +137,6 @@ In this way, the Kareao is rewarded for its thoughtful pathway towards the canop
 
 ## Challenges
 
+This Studio model is not without challenges. For example, although there are some aspects that help to free up staff time, it's still challenging to work within a traditional timetable system that normally has just one staff member per course. Studio is best run with co-teaching.
+
+Aside from having enough staff to complete all the PDR meetings and provide support to learners during the semester, it's also important to have more than one staff member per Studio course for moderation purposes. Observations of learner performance need to be corroborated to ensure fairness. It's quite challenging for an external moderator to moderate Studio courses and equally challenging for assessing staff to record and collate the evidence required for a sound moderation process.
