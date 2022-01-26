@@ -154,3 +154,5 @@ Feedback from learners has been largely positive, with comments such as "I hated
 Feedback from teaching staff in the core and elective courses has also been positive. In Programming 1, for example, there has been a noticeable improvement in troubleshooting (debugging) skills due to the increased amount of time learners spend doing programming. Overall improvement in technical skills is impossible to measure since we have no way to set up a control group—every group of learners is intrinsically different.
 
 Feedback from industry is extremely positive regarding the expansion of soft skills training from one course to a whole suit of integrated experiences. Some industry stakeholders were not clear on how their specific technical needs were catered for, which would be dealt with in elective courses as Studio doesn't have the capacity to allow the practise of the broad range of subdisciplines encompassed by "IT".
+
+NZQA feedback was given during the programme approval process. The BIT Programme Document, including Studio, was approved for delivery by NZQA.
