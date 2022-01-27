@@ -103,7 +103,7 @@ In Studio this is aided by the iterative way of working that we get from Agile s
 
 ## How might we provide for the learning preferences of both the Kareao and the Kanuka?
 
-People have different learning styles and preferences. Not the old-fashioned [VAK](https://en.wikipedia.org/wiki/Learning_styles#Neil_Fleming's_VAK/VARK_model)🡕 learning styles, but much more deep-seated cultural and personal tendencies built up of a learner's entire personal background.
+People have different learning styles and preferences. Not the old-fashioned [VAK](https://en.wikipedia.org/wiki/Learning_styles#Neil_Fleming's_VAK/VARK_model)&#8599; learning styles, but much more deep-seated cultural and personal tendencies built up of a learner's entire personal background.
 
 Two of these we see emerging in Studio courses might be described as the Kareao (the Supplejack vine) and the Kanuka. 
 
