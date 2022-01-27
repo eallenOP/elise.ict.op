@@ -1,17 +1,7 @@
 ---
-layout: ../layouts/BaseLayout.astro
+layout: ../layouts/TextDocLayout.astro
 title: Studio approach
 ---
-
-<style>
-    body {
-        max-width: 80ch;
-        margin: 0 auto;
-    }
-    li, p {
-        line-height: 1.3;
-    }
-</style>
 
 # Ako prototype (Studio)
 
