@@ -156,3 +156,9 @@ Feedback from teaching staff in the core and elective courses has also been posi
 Feedback from industry is extremely positive regarding the expansion of soft skills training from one course to a whole suit of integrated experiences. Some industry stakeholders were not clear on how their specific technical needs were catered for, which would be dealt with in elective courses as Studio doesn't have the capacity to allow the practise of the broad range of subdisciplines encompassed by "IT".
 
 NZQA feedback was given during the programme approval process. The BIT Programme Document, including Studio, was approved for delivery by NZQA.
+
+## Where to from here?
+
+Now that the foundation has been set the and core concepts tested, we would like to incorporate more cross-level interaction so that, for example, first year students can see what third year students are doing, and senior students can experience being in a mentoring or leadership role.
+
+We have also begun to include more cross-discipline interaction. Last semester a group of students from the Bachelor Communication Design did a project in parallel to design the UX, UI and design assets of the Progressive Web App being built by Studio 2 teams. Both groups learnt a lot about communicating outside of their discipline and experienced a professional relationship that closely resembles industry. Timetabling is a big challenge to making this work at the moment, but we hope to do more in future.
