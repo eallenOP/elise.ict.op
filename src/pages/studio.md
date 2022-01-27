@@ -38,7 +38,7 @@ The purpose of this document/prototype is to describe some of the challenges we 
 - [How might we encourage process-focussed thinking instead of goal-focussed attitudes?](#how-might-we-encourage-process-focussed-thinking-instead-of-goal-focussed-attitudes)
 - [How might we provide for the learning preferences of both the Kareao and the Kanuka?](#how-might-we-provide-for-the-learning-preferences-of-both-the-Kareao-and-the-Kanuka)
 
-Jump to [Challenges](#challenges)
+Jump to [Challenges](#challenges), [Testing and feedback](#testing-and-feedback)
 
 
 ## How might we increase buy-in for learning soft skills, e.g. teamwork and communication?
